@@ -1,0 +1,2 @@
+Ini adalah file baru yang digunakan dalam pratikum git dan github
+apa yang diperlukan dalam praktek ini adalah internet, laptop, dan keinginan terus belajar hal yang baru dan bermanfaat 
