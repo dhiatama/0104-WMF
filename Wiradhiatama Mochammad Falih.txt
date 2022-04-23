@@ -1,2 +1,2 @@
 G.231.20.0104 - Wiradhiatama MF - Ini adalah file baru yang digunakan dalam pratikum git dan github
-apa yang diperlukan dalam praktek ini adalah internet, laptop, dan keinginan terus belajar hal yang baru dan bermanfaat 
+apa yang diperlukan dalam praktek ini adalah internet, laptop, dan keinginan terus belajar hal yang baru dan bermanfaat.
